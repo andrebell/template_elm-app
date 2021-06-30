@@ -4,7 +4,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/template_elm-app/favicon.ico"
   },
   {
-    "revision": "97e611eea521df7dd31e6036074656e8",
+    "revision": "ed933e120663857123e357f4db11f931",
     "url": "/template_elm-app/index.html"
   },
   {
@@ -16,12 +16,12 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/template_elm-app/manifest.json"
   },
   {
-    "revision": "7631e834fcd4919e124c",
+    "revision": "8fa0ffef67f9c7f4da82",
     "url": "/template_elm-app/static/css/main.0af5c45f.chunk.css"
   },
   {
-    "revision": "7631e834fcd4919e124c",
-    "url": "/template_elm-app/static/js/main.7631e834.chunk.js"
+    "revision": "8fa0ffef67f9c7f4da82",
+    "url": "/template_elm-app/static/js/main.8fa0ffef.chunk.js"
   },
   {
     "revision": "2094e6a45378a5e1b921",
