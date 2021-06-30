@@ -8,3 +8,5 @@ build
 .DS_Store
 # exclude Node packages
 node_modules
+working
+sample
