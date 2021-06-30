@@ -1,0 +1,15 @@
+{
+  "main.css": "/template_elm-app/static/css/main.0af5c45f.chunk.css",
+  "main.js": "/template_elm-app/static/js/main.f912a49f.chunk.js",
+  "main.js.map": "/template_elm-app/static/js/main.f912a49f.chunk.js.map",
+  "runtime~main.js": "/template_elm-app/static/js/runtime~main.2094e6a4.js",
+  "runtime~main.js.map": "/template_elm-app/static/js/runtime~main.2094e6a4.js.map",
+  "vendors~main.js": "/template_elm-app/static/js/vendors~main.0b49ec49.chunk.js",
+  "vendors~main.js.map": "/template_elm-app/static/js/vendors~main.0b49ec49.chunk.js.map",
+  "./service-worker.js": "/template_elm-app/./service-worker.js",
+  "favicon.ico": "/template_elm-app/favicon.ico",
+  "index.html": "/template_elm-app/index.html",
+  "logo.svg": "/template_elm-app/logo.svg",
+  "manifest.json": "/template_elm-app/manifest.json",
+  "precache-manifest.3885a3e581f60d703c58b3f3fbd383ea.js": "/template_elm-app/precache-manifest.3885a3e581f60d703c58b3f3fbd383ea.js"
+}
