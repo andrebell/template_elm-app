@@ -5,6 +5,9 @@ ARG ELM_VERSION=latest-0.19.1
 ARG ELM_TEST_VERSION=latest-0.19.1
 ARG ELM_FORMAT_VERSION=latest-0.19.1
 
+# Configuring gh-pages version
+ARG GH_PAGES_VERSION=3.0.0
+
 # This Dockerfile adds a non-root user with sudo access. Update the “remoteUser” property in
 # devcontainer.json to use it. More info: https://aka.ms/vscode-remote/containers/non-root-user.
 ARG USERNAME=node
@@ -19,7 +22,7 @@ RUN export DEBIAN_FRONTEND=noninteractive \
     elm-test@${ELM_TEST_VERSION} \
     elm-format@${ELM_FORMAT_VERSION} \
     create-elm-app \
-    gh-pages \
+    gh-pages@${GH_PAGES_VERSION} \
     #
     # [Optional] Update UID/GID if needed
     && if [ "$USER_GID" != "1000" ] || [ "$USER_UID" != "1000" ]; then \
