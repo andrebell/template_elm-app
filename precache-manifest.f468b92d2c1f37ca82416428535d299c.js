@@ -12,7 +12,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/template_elm-app/logo.svg"
   },
   {
-    "revision": "1c82903c2994c2507b385b9042bbfac5",
+    "revision": "34a42293c7805f428577eefee1084b04",
     "url": "/template_elm-app/manifest.json"
   },
   {
