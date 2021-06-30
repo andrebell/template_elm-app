@@ -8,8 +8,8 @@
       "type": "image/png"
     }
   ],
-  "start_url": "/template_elm-app/index.html",
-  "scope": "/template_elm-app/",
+  "start_url": "./index.html",
+  "scope": "./",
   "display": "standalone",
   "theme_color": "#000000",
   "background_color": "#ffffff"
